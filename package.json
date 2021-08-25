@@ -23,5 +23,6 @@
   "homepage": "https://github.com/J2021T/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^6.2.1"
-  }
+  },
+  "dependencies": {}
 }
